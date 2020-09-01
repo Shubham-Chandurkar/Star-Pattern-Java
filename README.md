@@ -1,4 +1,7 @@
 # Star-Pattern-Java
+
+Please check the output_sample file to see the pattern output.
+
 Simple Core java code which prints 5 different types of star patterns.
 
 Problem 1: Write a function to draw a reverse isosceles triangle.
