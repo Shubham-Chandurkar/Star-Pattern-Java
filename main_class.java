@@ -1,6 +1,5 @@
 package core_java_exercises;
 import java.util.*;
-import java.io.IOException;
 
 class holder_class extends main_class {
 	
